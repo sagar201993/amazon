@@ -1,6 +1,6 @@
 T
 ## Amazon landing page
 
-https://vercel.com/sagar201993/amazon
+https://amazon-hazel-three.vercel.app/
 
 
